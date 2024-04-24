@@ -22,5 +22,5 @@ To open and run the project, run `npm i` to install the dependencies and `npm st
 
 Then, access <a href="http://localhost:3000/">http://localhost:3000/</a> in your browser.
 
-# OrganoApp
+
 # OrganoTSapp
