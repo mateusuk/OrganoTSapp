@@ -9,6 +9,9 @@
 ## ✔️ Techniques and technologies used
 
 Check out this list of everything we will use in this training:
+![HTML](https://img.shields.io/badge/REACT-blue)
+  ![HTML](https://img.shields.io/badge/TYPESCRIPT-blue)
+  ![HTML](https://img.shields.io/badge/CSS-blue)
 
 - `React`
 - `React Hooks`
